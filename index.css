@@ -1,0 +1,14 @@
+.h-screen {
+    padding: 30px;
+}
+
+.btn-rsx {
+    width: 150px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 10px;
+}
+
+.btn-rsx:hover {
+    font-weight: 700;
+}
