@@ -1,4 +1,4 @@
-# 💾 DOALO.FR
+# 💾 Doalo.fr
 <h4>⚠️ Ce site est encore en développement, donc pour l'instant inaccessible</h4>
 
 Bienvenue sur le site internet de [Doalo](https://twitter.com/Doalou) !
@@ -11,7 +11,7 @@ Il n'y a pour l'instant pas de date fixée, mais dès que ce sera le cas vous en
 
 ## Qui y a participé ?
 
-* **[Doalo](https://twitter.com/Doalou)**, naturellement...
+* **[Doalo](https://twitter.com/Doalou)**, naturellement... (coucou c'est mwa)
 * **[Le Mocha](https://www.twitch.tv/le_mocha)** pour tout ce qui est de l'hébergement et des bidules techniques
 * **[Slawk](https://twitter.com/SlawkLeGrand)** qui a aidé à la réalisation du site, malgré ses maigres compétences de développeur
 
