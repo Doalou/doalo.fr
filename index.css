@@ -2,13 +2,13 @@
     padding: 30px;
 }
 
-.zaa {
+.btn-rsx {
     width: 150px;
     padding-top: 10px;
     padding-bottom: 10px;
     margin: 10px;
 }
 
-.zaa:hover {
+.btn-rsx:hover {
     font-weight: 700;
 }
